@@ -5,6 +5,7 @@
 *.pyc
 build
 dist
+cms-venv
 cms.egg-info
 .testfailures
 .unittestfailures
